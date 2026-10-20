@@ -21,7 +21,7 @@ const starterAssets: Asset[] = [
   { id:'bg_station', name:'어두운 역 플랫폼', kind:'background', url:'https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=1400&q=85', builtin:true },
   { id:'bg_room', name:'낡은 실내', kind:'background', url:'https://images.unsplash.com/photo-1511818966892-d7d671e672a2?auto=format&fit=crop&w=1400&q=85', builtin:true },
   { id:'cg_red', name:'붉은 빛의 컷신', kind:'cg', url:'https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=1600&q=90', builtin:true },
-  { id:'char_yisang', name:'이상', kind:'character', url:'/assets/characters/YiSang.png', builtin:true },
+  { id:'char_yisang', name:'이상', kind:'character', url:'https://dcimg1.dcinside.com/viewimage.php?id=21b2d229f1dd35bf6db0c4a519c325298cf81e&no=24b0d769e1d32ca73cea81fa11d02831e8c8ccee733edc9dd120524d4729b2725ece096bc72a3eedbcc23f33c1b784397f8ba1b74d0b9cc29a718e9225e2d29349fcd754bde0e9bd8b7aa80762747d&orgExt', builtin:true },
   { id:'char_faust', name:'파우스트', kind:'character', url:'/assets/characters/Faust.png', builtin:true },
   { id:'char_donquixote', name:'돈키호테', kind:'character', url:'/assets/characters/DonQuixote.png', builtin:true },
   { id:'char_ryoshu', name:'료슈', kind:'character', url:'/assets/characters/Ryoshu.png', builtin:true },
